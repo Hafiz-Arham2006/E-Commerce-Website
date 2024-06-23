@@ -1,0 +1,29 @@
+.card {
+    transition: all 0.3s;
+
+  }
+
+  .card:hover {
+    transform: scale(1.11);
+    box-shadow: 5px 5px 5px blanchedalmond;
+  }
+
+  h5 {
+    font-family: serif;
+  }
+
+  p {
+    font-size: 15px;
+  }
+  h1{
+    font-family: serif;
+  }
+ 
+  
+  a{
+    font-size: larger;
+  }
+  .nav-link:hover{
+        color: black !important;
+}
+
